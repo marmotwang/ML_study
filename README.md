@@ -1,1 +1,1 @@
-# marmotwang.github.io
+# my machine learning study notes
